@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=array\ strength\ min\ max
+comment1.target=int\ binary_search(BinarySearchTree.data[],\ int,\ int,\ int)
+comment1.text=Reccursive\ Binary\ Search\:\r\n\ while\ the\ max\ is\ less\ than\ min\ return\ a\ -1,\ this\ should\ not\ happen.\ \r\n\ If\ within\ bounds\ the\ midpoint\ is\ found\ and\ then\ sent\ to\ find\ the\ key\ \r\nat\ that\ location\ of\ the\ array.It\ will\ return\ the\ next\ key\ to\ check\ at\ and\ restart.
+numComments=2

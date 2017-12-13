@@ -1,0 +1,6 @@
+These are the values that are passed from the readfile to createfile
+ White  Color Count: 44 Plates
+ Beige  Color Count: 40 Plates
+ Mint   Color Count: 31 Plates
+ Peach  Color Count: 38 Plates
+ Floral Color Count: 47 Plates
